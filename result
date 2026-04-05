@@ -4,3 +4,11 @@
 - The model was evaluated using precision, recall, and F1-score, showing balanced performance across different career classes.
 - Training and validation accuracy graphs indicate that the model learned effectively without significant overfitting.
 - Overall, the model successfully predicts student career paths based on input features.
+## Results
+
+- Accuracy: 50%
+- Precision: 54%
+- Recall: 50%
+- F1-score: 47%
+
+The model was evaluated using standard classification metrics including accuracy, precision, recall, and F1-score.
